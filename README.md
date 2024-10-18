@@ -1,5 +1,6 @@
-<h1 align="center">👋 Hi, I'm Debayan!</h1>
-<p align="center"> <strong>⚡ Ready to create and collaborate on awesome projects! ⚡</strong> </p> 
+![Alt text](https://res.cloudinary.com/dif3tyjdn/image/upload/v1729191157/bd565dcc0a556add0b0a0ed6b26d686e_i8gjku.gif)
+
+<h1 align="center"> Hi, I'm Debayan!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -11,40 +12,31 @@
 
 ---
 
-### 🌟 **About Me**
+### **About Me**
 
-- 🧑‍💻 **Backend Developer** with experience in Python, SQL (MySQL/PostgreSQL), Ruby on Rails, MongoDB, and NoSQL.
-- 🎮 **Gamer** at heart, I love playing **Minecraft PvP/Bedwars** in version **1.8.9**.
-- 🛠 My go-to editor is **PyCharm**, but I also use **VS Code** for quick edits.
-- 💻 Proud owner of a **ThinkPad X1 Carbon (3rd Gen)**—perfect for both coding and gaming!
-- 🎥 When I'm not coding, you might find me dabbling in **video editing** or experimenting with **photography**.
+- **Backend Developer** with experience in Python, SQL (MySQL/PostgreSQL), Ruby on Rails, MongoDB, and NoSQL.
+- **Gamer** at heart, I love playing **Minecraft PvP/Bedwars** in version **1.8.9**.
+- My go-to editor is **PyCharm**, but I also use **VS Code** for quick edits.
+- Proud owner of a **ThinkPad X1 Carbon (3rd Gen)**—perfect for both coding and gaming!
+- When I'm not coding, you might find me dabbling in **video editing** or experimenting with **photography**.
 
 ---
 
-### 🕹️ **Fun Facts**
+### **Fun Facts**
   
-- 🔥 Minecraft is life—especially **Bedwars PvP** on 1.8.9!
-- 🎬 I occasionally enjoy **video editing** and **photography** when I’m not buried in code.
-- 💡 Always pushing my limits in backend development and staying curious about new technologies.
+- Minecraft is life—especially **Bedwars PvP** on 1.8.9!
+- I occasionally enjoy **video editing** and **photography** when I’m not buried in code.
+- Always pushing my limits in backend development and staying curious about new technologies.
 
----
-### 🚀 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasNoCode&layout=compact&theme=radical" alt="Debayan's Most Used Languages"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=DasNoCode&show_icons=true&theme=radical" alt="Debayan's GitHub Stats"/> </p>
-
----
-
-### ✨ **Motivational Quote**
+### **Motivational Quote**
   
 > "Strive not to be a success, but rather to be of value."  
 > **– Albert Einstein**
 
 ---
 
-### 🛠️ **Technologies I Use**
+### **Technologies I Use**
 
 | **Languages** | **Databases**   | **Tools**        |
 | ------------- | --------------- | ---------------- |
@@ -54,26 +46,6 @@
 
 ---
 
-### 💡 **Here’s Some Java to Boost Your Day**
-```java
-public class KeepPushing {
-    public static void main(String[] args) {
-        String challenge = "Overcome every obstacle";
-        int timesToTry = 10000;
-        
-        while (timesToTry > 0) {
-            System.out.println("Keep going, you’re one step closer! ");
-            timesToTry--;
-        }
-
-        System.out.println("Challenge conquered: " + challenge);
-        System.out.println("You’re unstoppable!");
-    }
-}
-```
-
----
-
-### 📧 **How to Contact Me**
+### **How to Contact Me**
 
 If you wish to reach out, please feel free to email me at [debayan.hokkaido@gmail.com](mailto:debayan.hokkaido@gmail.com). I look forward to connecting with you!
