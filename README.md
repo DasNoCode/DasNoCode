@@ -1,6 +1,6 @@
 ![Alt text](https://res.cloudinary.com/dif3tyjdn/image/upload/v1729191157/bd565dcc0a556add0b0a0ed6b26d686e_i8gjku.gif)
 
-<h1 align="center"> Hi, I'm Dasnocode!</h1>
+<h1 align="center"> Hi, I'm DasNoCode!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />
